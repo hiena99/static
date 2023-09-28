@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+<script>windows.alert("test")</script>
